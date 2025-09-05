@@ -26,7 +26,7 @@ A real-time cricket score tracking application built with Streamlit that display
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/live-cricket-tracker.git
+   git clone https://github.com/Shaidhms/cricket-score-streamlit.git
    cd live-cricket-tracker
    ```
 
