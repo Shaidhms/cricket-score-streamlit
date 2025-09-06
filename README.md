@@ -123,20 +123,7 @@ live-cricket-tracker/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
 ├── README.md             # Project documentation
-├── .env.example          # Environment variables template
-├── .gitignore           # Git ignore rules
-│
-├── assets/              # Static assets
-│   └── screenshots/     # App screenshots
-│
-├── utils/               # Utility functions
-│   ├── __init__.py
-│   ├── api_client.py    # API integration
-│   └── data_processor.py # Data processing
-│
-└── tests/               # Test files
-    ├── __init__.py
-    └── test_app.py
+
 ```
 
 ## 🔧 Customization
